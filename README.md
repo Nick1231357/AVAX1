@@ -17,4 +17,5 @@ Before you can interact with the contract, you need to deploy it to the Ethereum
 After deployment, you can interact with the contract using Ethereum wallets or other smart contract interaction tools. 
 # AUTHORS
 John Dominic S. Contreras
-Email: 202010368@fit.edu.ph
+Email:
+202010368@fit.edu.ph
