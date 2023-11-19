@@ -1,4 +1,4 @@
-# AVAX1
+# Functions and Errors
 This Solidity program is a simple ethereum token contract program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how ethereum works.
 # DESCRIPTION
 The OwnerManagedContract is a simple Ethereum smart contract written in Solidity. It introduces basic ownership management and includes functions for updating a balance, performing assertion checks, and triggering explicit transaction reversals. The contract ensures that certain functions can only be executed by the contract owner, providing a level of access control. The setBalance function allows the owner to set the contract's balance, while the assertExample function checks if the balance is greater than 0 using an assertion. Additionally, the revertFunction demonstrates how to explicitly revert a transaction with a custom error message when a specified condition is met, in this case, when the input value is zero.
